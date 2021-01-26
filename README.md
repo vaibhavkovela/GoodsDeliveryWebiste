@@ -8,7 +8,7 @@ A Basic Website with backend database connectivity using xampp software.
  - Gedit : For Small Scale editing.
  
 ## Languages / Tech Used 
-  -php : For backend and DB Connectivity.
-  -SQL : DB Interaction.
-  -Html: Website Design.
-  -css : Website Aesthetics.
+  - php : For backend and DB Connectivity.
+  - SQL : DB Interaction.
+  - Html: Website Design.
+  - css : Website Aesthetics.
